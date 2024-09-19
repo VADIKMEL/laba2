@@ -1,0 +1,36 @@
+copy con vadik1.txt
+это первое задание
+this is first lab
+
+срсз 65001
+chcp 65001
+copy con
+
+copy con vadik1.txt
+это первое задание
+yes
+this is the first lab
+copy con vadik2.txt
+это первое задание
+
+copy vadik1.txt+vadik2.txt vadik3.txt
+dir Z:\ОССТ_2024-2025\1-МД-4\Мелентьев В\vadik3.txt
+dir Z:\ОССТ_2024-2025\1-МД-4\Мелентьев В
+DIR vadik3.txt
+dir
+doskey /history vadikh.txt
+copy con vadikh.txt
+Z:\ОССТ_2024-2025\1-МД-4\Мелентьев В>doskey /history
+Z:\ОССТ_2024-2025\1-МД-4\Мелентьев В>doskey /history vadikh.txt
+
+doskey /history vadikh.txt
+copy con vadik_familii.txt
+Melentev
+Mosyakov
+Boytsov
+Gumpert
+Kucenko
+sort vadik_familii > vadik_fs.txt
+sort vadik_familii.txt > vadik_fs.txt
+doskey /history
+doskey /history > vadikh.txt
